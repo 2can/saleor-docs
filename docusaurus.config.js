@@ -228,9 +228,9 @@ module.exports = {
 
   themeConfig: {
     algolia: {
-      appId: "P1Y4DTZUZN",
-      apiKey: "e4b2fbb46f8e998981100702d37da551",
-      indexName: "saleor",
+      appId: "HCGVPB2P7Z",
+      apiKey: "59e1ff7eff9d42a7e9e61c15926dd536",
+      indexName: "saleor-test",
       placeholder: "Search Saleor Documentation",
     },
 
